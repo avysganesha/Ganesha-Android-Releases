@@ -14,6 +14,8 @@ PDF and Excel exports open the Android save dialog. Photo/video and spreadsheet 
 
 ## Updates
 
+Each push to the private application repository’s **main** branch automatically builds and publishes a fresh signed APK here. The newest build is linked from the [latest release page](https://github.com/avysganesha/Ganesha-Android-Releases/releases/latest).
+
 Download the new APK and install it over the existing version. Keep the installed app; uninstalling is unnecessary. GitHub Releases does not automatically install updates. Each release includes a SHA-256 checksum and uses the same AVYS signing key.
 
 This repository hosts public Android downloads and installation instructions. Application source and signing credentials are maintained separately. iOS is not included.
