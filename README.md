@@ -8,7 +8,7 @@ Download the latest signed APK from [GitHub Releases](https://github.com/avysgan
 2. Open the downloaded file. If Android asks, allow your browser or file manager to install apps from this source.
 3. Install **AVYS Ganesha** and sign in with your existing website account.
 
-Requires **Android 7.0 or later** and an internet connection. The app connects to [AVYS Ganesha](https://avysganesha.vercel.app) and shares its accounts, records, permissions, and features.
+Requires **Android 7.0 or later**, an internet connection, and an updated **Android System WebView**. If the app shows **Update needed**, update Android System WebView through Google Play, then close and reopen the app. The browser component updates separately from Android; an Android OS upgrade is not required. The app connects to [AVYS Ganesha](https://avysganesha.vercel.app) and shares its accounts, records, permissions, and features.
 
 PDF and Excel exports open the Android save dialog. Photo/video and spreadsheet selection use the system picker. App exports are limited to 32 MB; larger exports can be made from the website.
 
